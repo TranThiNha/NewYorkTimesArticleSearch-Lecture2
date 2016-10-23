@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5e1a83bd3c933485132773f08b3d0ba248f8119e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_e116818bf5e4cd07ccc3be0654a087bbe80636f5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_59d0313740aead981b6ed343716a6c8ac4a2483b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_6ad791299b0c165889ebafe70677af7d155297a2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_bd4af2e3d3bdb3aa4842af6c6b0735062a4f6307\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.2.1\d6f54d76edfbe779a50a8636b10fd3f555d8f780\butterknife-annotations-8.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.2.1_477e647c6b5043fcb6b0f89c59664cbe738f2350\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_16cc90aa5ba66b4aca84ed67b7182e29c5f3a5f8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_e9ba96d7b2f098b17770db13529547672191b08e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_b85becdc391f6e2b300592c7d5080d73d9cb269b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.2.1_cb98488da3e7baef40b0aa13f59d6f0e215e63f2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7ae8171f7065a60ebf00acb367550f362de471ca\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_1766637c0b4e8c254c170006496215dffc24357c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_c8512976510cb76640384ad77ad4921996498b90\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_14cbc211b171f59a5bf065fae324666dee84da11\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_b5e0f5e9486d75c8afca1b0b2e52dd162bf800f5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="8f9a4c68045d5b1f000fe29c771995f798963b1b">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5cf2dbdbcf29746c1066c2088740b4dcc9892e6e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_12c7d8d5fcb907e97a2b298a5e857c6317d44504\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_5a177c889fd7285a6aab8b63427ca4c5ab1b44ea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7f8900edebc0c721c7f7d6ee679a3a32f00aaf30\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_df1ad55159457a32e993919fa33207cd1fb2947d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_f5e44bce95125a123b719cc7642a727361a1f9c6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_bbac9efd331ce0fc92d99bc60f63b61c8c24beee\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f3a993bcedff361e8022535418869c7f29fa0fc3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_77aaba8cfc3a79037b18efa310ce42d1091e0d0a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_f9687273a61f52a2e09342dd719865714849c46d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_79a5eb683af908d8ea3c3b7404468e46730f5e54\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_a252025dac4ad856815fdf12f254f95630fc927b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="c6772edb7ced26f8fd6adb19118ee95b0c2fc29c">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_adb0cfaa06986e24f09fa406f7c6f2a6a3e6a825\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_781a982d30d6baf390d50cde4233802dcc0059d7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThiNha\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\ThiNha\Downloads\MyYoutube\NewYorkTimesArticleSearch\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_5f1f1db9e9f0a1c32a8b0c368594c038e239fa54\classes.dex" />
+    </item>
+
+</items>
