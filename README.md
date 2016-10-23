@@ -57,8 +57,13 @@ Describe any challenges encountered while building the app.
 
 ## Open-source libraries used
 
+## Open-source libraries used
+
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
 - [Picasso](http://square.github.io/picasso/) - Image loading and caching library for Android
+- [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
+- [ButterKnife](http://jakewharton.github.io/butterknife/) - Bind Android views and callbacks to fields and methods.
+- [Gson](https://github.com/google/gson) - A Java serialization/deserialization library that can convert Java Objects into JSON and back.
 
 ## License
 
