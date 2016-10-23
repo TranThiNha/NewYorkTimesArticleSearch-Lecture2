@@ -20,8 +20,9 @@ public class ArticleActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_article);
-        Article article = (Article)getIntent().getSerializableExtra("article");
         webView = (WebView) findViewById(R.id.wvArticle);
+        Intent intent = getIntent();
+        String webUrl = intent.getStringExtra("web_url");
         webView.setWebViewClient(new WebViewClient(){
             @Override
             public boolean shouldOverrideUrlLoading(WebView view, String url) {
@@ -29,7 +30,7 @@ public class ArticleActivity extends AppCompatActivity {
                 return true;
             }
         });
-        webView.loadUrl(article.getWebUrl());
+        webView.loadUrl(webUrl);
     }
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

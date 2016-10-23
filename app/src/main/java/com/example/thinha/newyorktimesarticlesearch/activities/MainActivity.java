@@ -96,7 +96,7 @@
                 @Override
                 public void onArticleItemClick(Article article) {
                     Intent intent = new Intent(getApplicationContext(),ArticleActivity.class);
-                    intent.putExtra("article", article);
+                    intent.putExtra("web_url", article.getWebUrl());
                     startActivity(intent);
                 }
             });
